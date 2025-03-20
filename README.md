@@ -1,6 +1,5 @@
-# React + Vite
+Frontend Study Notation:
 
-Frontend Study Notation
 Frontend Study Notation is a React-based project built with Vite, featuring essential frontend navigation elements, including Home, Login, and Sign Up buttons. This project serves as a foundation for frontend development with React, Tailwind CSS, and React Router.
 
 Project Image:
